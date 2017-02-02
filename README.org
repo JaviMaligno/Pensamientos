@@ -47,6 +47,9 @@ encontrando.
     provocar la desaparición de las desagradables. Actuar de este modo es
     moverse al ritmo de la vida, estar en perfecta armonía con su música
     cambiante, a esto se llama iluminación.
+  + Este es el verdadero secreto de la vida: Estar completamente comprometido
+    con lo que haces en el aquí y ahora. Y en lugar de llamarlo trabajo, date
+    cuenta de que es un juego. 
   + Las palabras no pueden expresar más que un pequeño fragmento del
     conocimiento humano, porque lo que podemos decir y pensar es siempre
     inmensamente menor de lo que experimentamos. 
@@ -65,6 +68,10 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Albert_Einstein][Albert Einstein]] ::
   + Cada día sabemos más y entendemos menos. 
+  + Debe evitarse hablar a los jóvenes del éxito como si se tratase del
+    principal objetivo en la vida. La razón más importante para trabajar en la
+    escuela y en la vida es el placer de trabajar, el placer de su resultado y
+    el conocimiento del valor del resultado para la comunidad. 
   + El mundo no está en peligro por las malas personas sino por aquellas que
     permiten la maldad. 
   + El planteamiento de un problema es más importante que su solución.
@@ -117,6 +124,24 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Alejandro_Dumas][Alejandro Dumas]] ::
   + Para todos los males, hay dos remedios: el tiempo y el silencio.
+
++ [[https://es.wikipedia.org/wiki/Alexander_Fleming][Alexander Fleming]] ::
+  + El investigador sufre las decepciones, los largos meses pasados en una
+    dirección equivocada, los fracasos. Pero los fracasos son también útiles,
+    porque, bien analizados, pueden conducir al éxito.
+  + Un jardinero no debe ser impaciente. Las flores necesitan tiempo para
+    desarrollarse; si se intenta apresurar su crecimiento, se les hace más mal
+    que bien. Se las puede proteger contra los elementos, se las puede dar de
+    comer y de beber, pero no resulta difícil matarlas si se las proporciona
+    demasiada comida o bebidas demasiado fuertes. Ellas responden a la
+    simpatía; son capaces de soportar tratamientos extremadamente duros. En
+    resumen, se parecen mucho a los seres humanos.  
+
++ [[https://es.wikipedia.org/wiki/Alexander_Graham_Bell][Alexander Graham Bell]] ::
+  + Los hombres más exitosos son aquellos cuyo éxito es el resultado de una
+    acumulación constante. Es el hombre que avanza paso a paso, con su mente
+    cada vez más amplia y progresivamente más capaz para comprender cualquier
+    tema o situación.  
 
 + [[https://es.wikipedia.org/wiki/Alexander_Pope][Alexander Pope]] ::
   + Puesto que es razonable dudar de la mayoría de las cosas, debiéramos dudar
@@ -1086,6 +1111,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Michel_de_Montaigne][Michel de Montaigne]] ::
   + A quienes me preguntan la razón de mis viajes les contesto que sé bien de
     qué huyo pero ignoro lo que busco.
+  + Cuando me llevan la contraria, despiertan mi atención, no mi cólera; me
+    ofrezco a quien me contradice, que me instruye. La causa de la verdad
+    debería ser la causa común de uno y otro. 
   + El signo más cierto de la sabiduría es la serenidad constante.
   + La prueba más clara de la sabiduría es una alegría continua.  
   + Nuestra opinión pone precio a las cosas.
@@ -1300,6 +1328,10 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Robert_Burns][Robert Burns]] ::
   + Si nos fuera dado el poder de vernos como nos ven los demás, de cuantos
     disparates y necedades nos veríamos libres. 
+
++ [[https://es.wikipedia.org/wiki/Robert_Frost][Robert Frost]] ::
+  + En dos palabras puedo resumir cuanto he aprendido acerca de la vida: sigue
+    adelante.  
 
 + [[https://es.wikipedia.org/wiki/Robert_G._Ingersoll][Robert G. Ingersoll]] ::
   + En la vida no hay premios ni castigos, sino consecuencias.
