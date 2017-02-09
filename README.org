@@ -1,4 +1,4 @@
-﻿Este repositorio contiene una recopilación de pensamientos con los que me voy
+﻿Este repositorio contiene una pedazo de recopilación de pensamientos con los que me voy
 encontrando. 
 
 + [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]] ::
