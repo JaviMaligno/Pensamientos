@@ -110,6 +110,10 @@ encontrando.
     naturaleza mucho antes de haber aprendido a dominarse a sí mismo.  
 
 + [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]] ::
+  + El bien de la humanidad debe consistir en que cada uno goce al máximo de la
+    felicidad que pueda, sin disminuir la felicidad de los demás. 
+  + El secreto de la genialidad es el de conservar el espíritu del niño hasta
+    la vejez, lo cual quiere decir nunca perder el entusiasmo.  
   + La cultura no deriva de la lectura de libros, sino de la lectura exhaustiva
     e intensiva de buenos libros.
   + La experiencia no es lo que te sucede, sino lo que haces con lo que te
@@ -119,11 +123,13 @@ encontrando.
   + Las personas debemos el progreso a los insatisfechos.
   + Quizá la única lección que nos enseña la historia es que los seres humanos
     no aprendemos nada de las lecciones de la historia. 
+  + Todo está en todo. Todo es realmente cada cosa.
 
 + [[https://es.wikipedia.org/wiki/Alejandro_Dumas][Alejandro Dumas]] ::
   + Para todos los males, hay dos remedios: el tiempo y el silencio.
 
 + [[https://es.wikipedia.org/wiki/Alexander_Fleming][Alexander Fleming]] ::
+  + A veces uno realiza un hallazgo cuando no lo está buscando. 
   + El investigador sufre las decepciones, los largos meses pasados en una
     dirección equivocada, los fracasos. Pero los fracasos son también útiles,
     porque, bien analizados, pueden conducir al éxito.
@@ -136,6 +142,8 @@ encontrando.
     resumen, se parecen mucho a los seres humanos.  
 
 + [[https://es.wikipedia.org/wiki/Alexander_Graham_Bell][Alexander Graham Bell]] ::
+  + Concentra todos tus pensamientos en el trabajo que estás haciendo. Los
+    rayos de sol no queman hasta que se concentran en un punto. 
   + Los hombres más exitosos son aquellos cuyo éxito es el resultado de una
     acumulación constante. Es el hombre que avanza paso a paso, con su mente
     cada vez más amplia y progresivamente más capaz para comprender cualquier
@@ -826,6 +834,9 @@ encontrando.
   + La lectura es como el alimento; el provecho no está en proporción de lo que
     se come, sino de los que se digiere.
 
++ [[https://es.wikipedia.org/wiki/James_Joyce][James Joyce]] ::
+  + Los errores son los umbrales del descubrimiento. 
+
 + [[https://es.wikipedia.org/wiki/Jean_Cocteau][Jean Cocteau]] ::
   + No se debe confundir la verdad con la opinión de la mayoría.
   + Un egoísta es aquel que se empeña en hablarte de sí mismo cuando tú te
@@ -917,6 +928,9 @@ encontrando.
   + Si un loco se obstinara durante mucho tiempo en lanzar piedras a la Luna,
     no alcanzaría, naturalmente, el blanco apetecido, pero acabaría por ser un
     hondero excepcional.
+
++ [[https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Sampedro][José Luis Sampedro]] ::
+  + Mi pedagogía siempre se reducía a dos palabras: amor y provocación.
 
 + [[https://es.wikipedia.org/wiki/Joseph_Joubert][Joseph Joubert]] ::
   + Enseñar es aprender dos veces. 
